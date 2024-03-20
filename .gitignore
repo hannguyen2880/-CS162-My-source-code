@@ -1,4 +1,4 @@
 .vs
-.docx
-.pdf
-.zip
+*.docx
+*.pdf
+*.zip
