@@ -1,7 +1,0 @@
-﻿  23125055_Ex3.cpp
-  Function.cpp
-D:\CS162\[CS162]My-source-code\23125055_W09_05\23125055_W09_Assignment3\Mycopyfile\Function.cpp(7,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-D:\CS162\[CS162]My-source-code\23125055_W09_05\23125055_W09_Assignment3\Mycopyfile\Function.cpp(14,14): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
-  Generating Code...
-D:\CS162\[CS162]My-source-code\23125055_W09_05\23125055_W09_Assignment3\Mycopyfile\Function.cpp(10): warning C4715: 'getFileName': not all control paths return a value
-  Mycopyfile.vcxproj -> D:\CS162\[CS162]My-source-code\23125055_W09_05\23125055_W09_Assignment3\x64\Debug\Mycopyfile.exe
